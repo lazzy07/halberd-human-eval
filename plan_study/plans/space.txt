@@ -1,0 +1,89 @@
+SPACE: All Plans Shown to Participants
+=======================================
+
+----------------------------------------------------------------------
+CONFIGURATION: space_any
+----------------------------------------------------------------------
+
+  Sabre plans (1):
+
+  Sabre Plan #0 (configuration: space_any)
+    1. First, a volcano on the surface rumbles, and it will soon erupt.
+    2. Then, a volcano on the surface erupts, killing everyone on the surface.
+    3. Finally, Zoe teleports from the ship to the surface, and the guardian of the surface sees them.
+
+  Halberd plans (1):
+
+  Halberd Plan #0 (configuration: space_any)
+    1. First, a volcano on the surface rumbles, and it will soon erupt.
+    2. Finally, a volcano on the surface erupts, killing everyone on the surface.
+
+----------------------------------------------------------------------
+CONFIGURATION: space_four
+----------------------------------------------------------------------
+
+  Sabre plans (2):
+
+  Sabre Plan #0 (configuration: space_four)
+    1. First, the lizard walks to the surface.
+    2. Then, Zoe teleports from the ship to the surface, and the guardian of the surface sees them.
+    3. After that, Zoe makes peace with the lizard, and they become friends.
+    4. Next, a volcano on the surface rumbles, and it will soon erupt.
+    5. Then, Zoe teleports from the surface to the ship.
+    6. Finally, a volcano on the surface erupts, killing everyone on the surface.
+
+  Sabre Plan #1 (configuration: space_four)
+    1. First, the lizard walks to the surface.
+    2. Then, Zoe teleports from the ship to the surface, and the guardian of the surface sees them.
+    3. After that, Zoe makes peace with the lizard, and they become friends.
+    4. Next, a volcano on the surface rumbles, and it will soon erupt.
+    5. Then, Zoe walks to the cave.
+    6. Finally, a volcano on the surface erupts, killing everyone on the surface.
+
+  Halberd plans (2):
+
+  Halberd Plan #0 (configuration: space_four)
+    1. First, Zoe teleports from the ship to the surface, and the guardian of the surface sees them.
+    2. Then, a volcano on the surface rumbles, and it will soon erupt.
+    3. After that, the lizard walks to the surface.
+    4. Next, Zoe walks to the cave.
+    5. Then, the lizard walks to the cave.
+    6. After that, Zoe makes peace with the lizard, and they become friends.
+    7. Finally, a volcano on the surface erupts, killing everyone on the surface.
+
+  Halberd Plan #1 (configuration: space_four)
+    1. First, Zoe teleports from the ship to the surface, and the guardian of the surface sees them.
+    2. Then, a volcano on the surface rumbles, and it will soon erupt.
+    3. After that, the lizard walks to the surface.
+    4. Next, Zoe walks to the cave.
+    5. Then, the lizard walks to the cave.
+    6. After that, the lizard makes peace with Zoe, and they become friends.
+    7. Finally, a volcano on the surface erupts, killing everyone on the surface.
+
+----------------------------------------------------------------------
+CONFIGURATION: space_two
+----------------------------------------------------------------------
+
+  Sabre plans (2):
+
+  Sabre Plan #0 (configuration: space_two)
+    1. First, a volcano on the surface rumbles, and it will soon erupt.
+    2. Then, Zoe teleports from the ship to the surface, and the guardian of the surface sees them.
+    3. Finally, a volcano on the surface erupts, killing everyone on the surface.
+
+  Sabre Plan #1 (configuration: space_two)
+    1. First, Zoe teleports from the ship to the surface, and the guardian of the surface sees them.
+    2. Then, a volcano on the surface rumbles, and it will soon erupt.
+    3. Finally, a volcano on the surface erupts, killing everyone on the surface.
+
+  Halberd plans (2):
+
+  Halberd Plan #0 (configuration: space_two)
+    1. First, a volcano on the surface rumbles, and it will soon erupt.
+    2. Then, a volcano on the surface erupts, killing everyone on the surface.
+    3. Finally, Zoe teleports from the ship to the surface, and the guardian of the surface sees them.
+
+  Halberd Plan #1 (configuration: space_two)
+    1. First, a volcano on the surface rumbles, and it will soon erupt.
+    2. Then, a volcano on the surface erupts, killing everyone on the surface.
+    3. Finally, the lizard walks to the surface.

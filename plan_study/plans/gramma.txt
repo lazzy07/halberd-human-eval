@@ -1,0 +1,78 @@
+GRAMMA: All Plans Shown to Participants
+========================================
+
+----------------------------------------------------------------------
+CONFIGURATION: gramma_any
+----------------------------------------------------------------------
+
+  Sabre plans (3):
+
+  Sabre Plan #0 (configuration: gramma_any)
+    1. First, Tom walks from Tom's house to the crossroads.
+    2. Then, Tom walks from the crossroads to the market.
+    3. After that, Tom buys the medicine from the merchant with Tom's coin.
+    4. Next, Tom walks from the market to the crossroads.
+    5. Finally, Tom walks from the crossroads to Tom's house.
+
+  Sabre Plan #1 (configuration: gramma_any)
+    1. First, Tom walks from Tom's house to the crossroads.
+    2. Then, the bandit walks from the camp to the crossroads.
+    3. Finally, the bandit attacks and kills Tom.
+
+  Sabre Plan #2 (configuration: gramma_any)
+    1. First, the bandit walks from the camp to the crossroads.
+    2. Then, Tom walks from Tom's house to the crossroads.
+    3. Finally, the bandit attacks and kills Tom.
+
+  Halberd plans (3):
+
+  Halberd Plan #0 (configuration: gramma_any)
+    1. First, the merchant walks from the market to the crossroads.
+    2. Then, the merchant walks from the crossroads to Tom's house.
+    3. Finally, Tom buys the medicine from the merchant with Tom's coin.
+
+  Halberd Plan #1 (configuration: gramma_any)
+    1. First, Tom walks from Tom's house to the crossroads.
+    2. Then, the bandit walks from the camp to the crossroads.
+    3. Finally, Tom attacks and kills Tom.
+
+  Halberd Plan #2 (configuration: gramma_any)
+    1. First, the bandit walks from the camp to the crossroads.
+    2. Then, Tom walks from Tom's house to the crossroads.
+    3. Finally, the bandit attacks and kills Tom.
+
+----------------------------------------------------------------------
+CONFIGURATION: gramma_win
+----------------------------------------------------------------------
+
+  Sabre plans (2):
+
+  Sabre Plan #0 (configuration: gramma_win)
+    1. First, Tom walks from Tom's house to the crossroads.
+    2. Then, Tom walks from the crossroads to the market.
+    3. After that, Tom buys the merchant's sword from the merchant with Tom's coin.
+    4. Next, Tom threatens the merchant with a weapon and steals the medicine by force.
+    5. Then, Tom walks from the market to the crossroads.
+    6. Finally, Tom walks from the crossroads to Tom's house.
+
+  Sabre Plan #1 (configuration: gramma_win)
+    1. First, Tom walks from Tom's house to the crossroads.
+    2. Then, Tom walks from the crossroads to the market.
+    3. After that, the merchant walks from the market to the crossroads.
+    4. Next, Tom walks from the market to the crossroads.
+    5. Then, Tom buys the medicine from the merchant with Tom's coin.
+    6. Finally, Tom walks from the crossroads to Tom's house.
+
+  Halberd plans (2):
+
+  Halberd Plan #0 (configuration: gramma_win)
+    1. First, the merchant walks from the market to the crossroads.
+    2. Then, the merchant walks from the crossroads to Tom's house.
+    3. After that, the bandit takes the bandit's coin out of the chest in the camp.
+    4. Finally, Tom buys the medicine from the merchant with Tom's coin.
+
+  Halberd Plan #1 (configuration: gramma_win)
+    1. First, the merchant tells the guard that the bandit has been seen at the camp.
+    2. Then, the merchant walks from the market to the crossroads.
+    3. After that, the merchant walks from the crossroads to Tom's house.
+    4. Finally, Tom buys the medicine from the merchant with Tom's coin.

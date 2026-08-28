@@ -1,0 +1,87 @@
+BASKETBALL: All Plans Shown to Participants
+============================================
+
+----------------------------------------------------------------------
+CONFIGURATION: basketball_any
+----------------------------------------------------------------------
+
+  Sabre plans (3):
+
+  Sabre Plan #0 (configuration: basketball_any)
+    1. First, Bob travels from Bob's house to the basketball court.
+    2. Then, Alice travels from downtown to the basketball court.
+    3. Finally, Bob and Alice play basketball at the basketball court and both stop being angry.
+
+  Sabre Plan #1 (configuration: basketball_any)
+    1. First, Bob travels from Bob's house to the basketball court.
+    2. Then, Alice travels from downtown to the basketball court.
+    3. After that, Alice steals the basketball from Bob.
+    4. Finally, Alice and Bob play basketball at the basketball court and both stop being angry.
+
+  Sabre Plan #2 (configuration: basketball_any)
+    1. First, Alice travels from downtown to Bob's house.
+    2. Then, Alice travels from Bob's house to the basketball court.
+    3. After that, Bob travels from Bob's house to the basketball court.
+    4. Finally, Bob and Alice play basketball at the basketball court and both stop being angry.
+
+  Halberd plans (3):
+
+  Halberd Plan #0 (configuration: basketball_any)
+    1. First, Bob travels from Bob's house to the basketball court.
+    2. Then, Charlie travels from downtown to the basketball court.
+    3. Finally, Bob and Charlie play basketball at the basketball court and both stop being angry.
+
+  Halberd Plan #1 (configuration: basketball_any)
+    1. First, Bob travels from Bob's house to the basketball court.
+    2. Then, Charlie travels from downtown to the basketball court.
+    3. After that, Bob steals the bat from Charlie.
+    4. Finally, Bob and Charlie play basketball at the basketball court and both stop being angry.
+
+  Halberd Plan #2 (configuration: basketball_any)
+    1. First, Bob travels from Bob's house to the basketball court.
+    2. Then, Charlie travels from downtown to the basketball court.
+    3. After that, Charlie steals the basketball from Bob.
+    4. Finally, Charlie and Bob play basketball at the basketball court and both stop being angry.
+
+----------------------------------------------------------------------
+CONFIGURATION: basketball_both
+----------------------------------------------------------------------
+
+  Sabre plans (2):
+
+  Sabre Plan #0 (configuration: basketball_both)
+    1. First, Bob travels from Bob's house to the basketball court.
+    2. Then, Alice travels from downtown to the basketball court.
+    3. After that, the detective travels from downtown to the basketball court.
+    4. Next, Alice steals the basketball from Bob.
+    5. Then, Alice and Bob play basketball at the basketball court and both stop being angry.
+    6. After that, the detective finds that Alice is holding the basketball and suspects them of theft.
+    7. Finally, the detective arrests Alice for theft.
+
+  Sabre Plan #1 (configuration: basketball_both)
+    1. First, the detective travels from downtown to the basketball court.
+    2. Then, Bob travels from Bob's house to the basketball court.
+    3. After that, Alice travels from downtown to the basketball court.
+    4. Next, Alice steals the basketball from Bob.
+    5. Then, Alice and Bob play basketball at the basketball court and both stop being angry.
+    6. After that, the detective finds that Alice is holding the basketball and suspects them of theft.
+    7. Finally, the detective arrests Alice for theft.
+
+  Halberd plans (2):
+
+  Halberd Plan #0 (configuration: basketball_both)
+    1. First, Charlie kills Alice with the bat.
+    2. Then, the detective finds that Charlie is holding the bat and suspects them of murder.
+    3. After that, the detective arrests Charlie for murder.
+    4. Next, Charlie travels from downtown to the basketball court.
+    5. Then, Bob travels from Bob's house to the basketball court.
+    6. Finally, Bob and Charlie play basketball at the basketball court and both stop being angry.
+
+  Halberd Plan #1 (configuration: basketball_both)
+    1. First, Charlie kills Alice with the bat.
+    2. Then, the detective finds that Charlie is holding the bat and suspects them of murder.
+    3. After that, Bob travels from Bob's house to downtown.
+    4. Next, Bob travels from downtown to the basketball court.
+    5. Then, the detective arrests Charlie for murder.
+    6. After that, Charlie travels from downtown to the basketball court.
+    7. Finally, Bob and Charlie play basketball at the basketball court and both stop being angry.

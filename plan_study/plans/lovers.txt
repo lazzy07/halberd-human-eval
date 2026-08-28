@@ -1,0 +1,71 @@
+LOVERS: All Plans Shown to Participants
+========================================
+
+----------------------------------------------------------------------
+CONFIGURATION: lovers
+----------------------------------------------------------------------
+
+  Sabre plans (5):
+
+  Sabre Plan #0 (configuration: lovers)
+    1. First, Alice walks from the bedroom to the dining room.
+    2. Then, Alice tells Bob that Alice wants to have the jewelry.
+    3. After that, Bob gives the jewelry to Alice.
+    4. Next, Alice walks from the dining room to the kitchen.
+    5. Finally, Alice trades the jewelry to Calvin for the flowers. Now Alice has the flowers, and Calvin has the jewelry.
+
+  Sabre Plan #1 (configuration: lovers)
+    1. First, Alice walks from the bedroom to the dining room.
+    2. Then, Calvin puts down the flowers.
+    3. After that, Alice walks from the dining room to the kitchen.
+    4. Finally, Alice picks up the flowers.
+
+  Sabre Plan #2 (configuration: lovers)
+    1. First, Calvin puts down the flowers.
+    2. Then, Alice walks from the bedroom to the dining room.
+    3. After that, Alice walks from the dining room to the kitchen.
+    4. Finally, Alice picks up the flowers.
+
+  Sabre Plan #3 (configuration: lovers)
+    1. First, Calvin walks from the kitchen to the living room.
+    2. Then, Calvin puts down the flowers.
+    3. After that, Alice walks from the bedroom to the living room.
+    4. Finally, Alice picks up the flowers.
+
+  Sabre Plan #4 (configuration: lovers)
+    1. First, Alice walks from the bedroom to the living room.
+    2. Then, Alice picks up the chocolates.
+    3. After that, Alice walks from the living room to the kitchen.
+    4. Finally, Alice trades the chocolates to Calvin for the flowers. Now Alice has the flowers, and Calvin has the chocolates.
+
+  Halberd plans (5):
+
+  Halberd Plan #0 (configuration: lovers)
+    1. First, Calvin walks from the kitchen to the dining room.
+    2. Then, Alice walks from the bedroom to the dining room.
+    3. After that, Calvin gives the flowers to Alice.
+    4. Finally, Bob gives the jewelry to Calvin.
+
+  Halberd Plan #1 (configuration: lovers)
+    1. First, Calvin walks from the kitchen to the dining room.
+    2. Then, Alice walks from the bedroom to the dining room.
+    3. After that, Bob trades the jewelry to Calvin for the flowers. Now Bob has the flowers, and Calvin has the jewelry.
+    4. Finally, Bob gives the flowers to Alice.
+
+  Halberd Plan #2 (configuration: lovers)
+    1. First, Calvin walks from the kitchen to the dining room.
+    2. Then, Bob trades the jewelry to Calvin for the flowers. Now Bob has the flowers, and Calvin has the jewelry.
+    3. After that, Alice walks from the bedroom to the dining room.
+    4. Finally, Bob gives the flowers to Alice.
+
+  Halberd Plan #3 (configuration: lovers)
+    1. First, Alice walks from the bedroom to the dining room.
+    2. Then, Calvin walks from the kitchen to the dining room.
+    3. After that, Bob trades the jewelry to Calvin for the flowers. Now Bob has the flowers, and Calvin has the jewelry.
+    4. Finally, Bob gives the flowers to Alice.
+
+  Halberd Plan #4 (configuration: lovers)
+    1. First, Calvin walks from the kitchen to the dining room.
+    2. Then, Alice walks from the bedroom to the dining room.
+    3. After that, Bob gives the jewelry to Alice.
+    4. Finally, Alice trades the jewelry to Calvin for the flowers. Now Alice has the flowers, and Calvin has the jewelry.
