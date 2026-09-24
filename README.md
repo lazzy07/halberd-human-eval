@@ -1,4 +1,6 @@
-# Human Evaluation Study - Narrative Planning
+# Human Evaluation Study - Halberd Narrative Planner
+
+This project is related to the paper: [Narrative Planning Using LLMs as a Model of Action Believability](https://cs.uky.edu/~sgware/reading/papers/senanayake2026narrative.pdf)
 
 This repository documents a human-subjects research project run through [Prolific](https://www.prolific.com). It compares narrative plans authored by Sabre, a symbolic planner, against narrative plans authored by Halberd, a neuro-symbolic planner that uses an LLM to judge which actions are believable. The goal is to see whether readers judge the two planners' plans differently, both for individual actions and for whole plans.
 
@@ -13,11 +15,11 @@ A participant may take part in only one of the two studies (the studies exclude 
 
 ## Two studies
 
-- The **Action Study** measures *local* plan quality: does each individual action, on its own, make sense given the story so far?
+- The **Action Study** measures _local_ plan quality: does each individual action, on its own, make sense given the story so far?
 
 ![Action Study](ref/action_study_example.png)
 
-- The **Plan Study** measures *global* plan quality: when a person compares a Sabre plan against a Halberd plan for the same scenario, which one reads as more coherent overall?
+- The **Plan Study** measures _global_ plan quality: when a person compares a Sabre plan against a Halberd plan for the same scenario, which one reads as more coherent overall?
 
 ![Plan Study](ref/plan_study_example.png)
 
@@ -73,12 +75,12 @@ The whole session takes 10-15 minutes and pays **$2.00** through Prolific.
 
 The same four comprehension questions (one per domain) are used in both studies, to make sure participants actually engaged with the scenario before answering the main study question:
 
-| Domain | Question | Correct answer |
-|---|---|---|
-| Basketball | Why does Bob want to play basketball with Alice? | Because he wants everyone to stop being angry. |
-| Gramma | Why does Tom want the medicine? | To heal his grandmother. |
-| Lovers | Which of the following is NOT a room in the house? | Bathroom |
-| Space | Why does the lizard consider Zoe an enemy when she arrives on the surface? | Because the lizard is the guardian of the surface and considers anyone who teleports there an enemy. |
+| Domain     | Question                                                                   | Correct answer                                                                                       |
+| ---------- | -------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------- |
+| Basketball | Why does Bob want to play basketball with Alice?                           | Because he wants everyone to stop being angry.                                                       |
+| Gramma     | Why does Tom want the medicine?                                            | To heal his grandmother.                                                                             |
+| Lovers     | Which of the following is NOT a room in the house?                         | Bathroom                                                                                             |
+| Space      | Why does the lizard consider Zoe an enemy when she arrives on the surface? | Because the lizard is the guardian of the surface and considers anyone who teleports there an enemy. |
 
 Each question offers 5 possible answers (see the per-study README for the full multiple-choice options).
 
