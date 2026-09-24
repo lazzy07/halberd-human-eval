@@ -8,9 +8,9 @@ This study asks participants to read a short narrative scenario together with **
 
 ## Step-by-step: what a participant does
 
-**Step 1: Consent (about 2 min).** After opening the study link from Prolific, the participant sees the Participant Agreement screen: a "Key Information" summary followed by the full detailed consent text (reproduced below), with a link to download the original IRB-stamped consent PDF. Clicking **"I Agree & Continue"** moves them forward; closing the browser window declines.
+**Step 1: Consent (about 2 min).** After opening the study link from Prolific, the participant sees the Participant Agreement screen: a key information summary followed by the full detailed consent text (reproduced below), with a link to download the original IRB-stamped consent PDF. Clicking **"I Agree & Continue"** moves them forward; closing the browser window declines.
 
-**Step 2: Instructions (about 1 min).** A short "How it works" tutorial explains the task in four steps, with one fully interactive worked example (two example plan cards the participant can click to select before starting for real):
+**Step 2: Instructions (about 1 min).** A short tutorial explains the task in four steps, with one fully interactive worked example (two example plan cards the participant can click to select before starting for real):
 
 1. Read the scenario description carefully.
 2. Review Plan A and Plan B for that scenario.
@@ -24,14 +24,14 @@ Ground rules shown on this screen: participants must select one plan per scenari
 **Step 3: the task (about 8-10 min), repeated once per domain.** Domains are presented in a random order. For each of the 4 domains (Basketball, Gramma, Lovers, Space, see the main [`README.md`](../README.md) for full domain descriptions):
 
 - The domain description is shown.
-- Two plan cards, **Plan A** and **Plan B**, are shown side by side, each a numbered list of actions in plain English, under the question *"Which one of these plans makes more sense to you according to the story description above?"*
+- Two plan cards, **Plan A** and **Plan B**, are shown side by side, each a numbered list of actions in natural language, under the question *"Which one of these plans makes more sense to you according to the story description above?"*
 - The participant clicks a card to select it (only one may be selected); the "Next" action is disabled until a plan is chosen.
 - They then click through to a **comprehension check**: one multiple-choice question about the scenario (see table below), which must be answered to proceed.
 - Confirming locks in that domain's answer. There is no way back to a previous domain.
 
 ![Example](../ref/plan_study_example.png)
 
-**Step 4: Completion (about 1 min).** A thank-you screen confirms responses were recorded and auto-redirects to Prolific after 5 seconds (or immediately via a "Return to Prolific now" button), which triggers payment.
+**Step 4: Completion (about 1 min).** A thank-you screen confirms responses were recorded and auto-redirects to Prolific after 5 seconds, which triggers payment.
 
 ---
 

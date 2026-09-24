@@ -2,15 +2,15 @@
 
 **IRB Protocol # 116913 (Exempt)**
 
-This study asks participants to read a short narrative scenario together with a single sequence of actions (a "plan"), and to mark **which individual actions, if any, don't make sense** in the context of that scenario. The plan they see for each scenario was authored either by the purely symbolic narrative planner **Sabre** or by **Halberd**, a neuro-symbolic planner that uses an LLM to judge which actions are believable. The study measures whether people flag more nonsensical actions in one planner's plans than the other's.
+This study asks participants to read a short narrative scenario together with a single sequence of actions (a plan), and to mark **which individual actions, if any, don't make sense** in the context of that scenario. The plan they see for each scenario was authored either by the purely symbolic narrative planner **Sabre** or by **Halberd**, a neuro-symbolic planner that uses an LLM to judge which actions are believable. The study measures whether people flag more nonsensical actions in one planner's plans than the other's.
 
 ---
 
 ## Step-by-step: what a participant does
 
-**Step 1: Consent (about 2 min).** After opening the study link from Prolific, the participant sees the Participant Agreement screen: a "Key Information" summary of the study, followed by the full detailed consent text (check below). They can download the original IRB-stamped consent PDF. Clicking **"I Agree & Continue"** moves them forward; closing the browser window declines.
+**Step 1: Consent (about 2 min).** After opening the study link from Prolific, the participant sees the Participant Agreement screen: a summary of the study, followed by the full detailed consent text (check below). They can download the original IRB-stamped consent PDF. Clicking **"I Agree & Continue"** moves them forward; closing the browser window declines.
 
-**Step 2: Instructions (about 1 min).** A short "How it works" tutorial explains the task in four steps, with one fully interactive worked example the participant can click through before starting for real:
+**Step 2: Instructions (about 1 min).** A short tutorial explains the task in four steps, with one fully interactive worked example the participant can click through before starting for real:
 
 1. Read the scenario description carefully.
 2. Review the sequence of actions that happened in the scenario.
@@ -24,14 +24,14 @@ Ground rules shown on this screen: participants may mark multiple actions, one a
 **Step 3: the task (about 10 min), repeated once per domain.** Domains are presented in a random order. For each of the 4 domains (Basketball, Gramma, Lovers, Space, see the main [`README.md`](../README.md) for full domain descriptions):
 
 - The domain description is shown.
-- A single plan (a numbered list of actions written in plain English, e.g. *"First, Bob travels from Bob's house to the basketball court."*) is shown beneath the question *"Read the actions below. Which actions do NOT make sense to you? (You can pick as many as you want, or none if all the actions make sense.)"*
+- A single plan (a numbered list of actions written in natural language, e.g. *"First, Bob travels from Bob's house to the basketball court."*) is shown beneath the question *"Read the actions below. Which actions do NOT make sense to you? (You can pick as many as you want, or none if all the actions make sense.)"*
 - The participant clicks any action(s) they consider nonsensical; clicking again deselects. Selecting nothing means "all actions make sense."
 - They then click through to a **comprehension check**: one multiple-choice question about the scenario (see table below), which must be answered to proceed.
 - Clicking "Next Domain" (or "Complete Study" on the last one) locks in that domain's answers. There is no way back to a previous domain.
 
 ![Example](../ref/action_study_example.png)
 
-**Step 4: Completion (about 1 min).** A thank-you screen confirms responses were recorded and auto-redirects to Prolific after 5 seconds (or immediately via a "Return to Prolific now" button), which triggers payment.
+**Step 4: Completion (about 1 min).** A thank-you screen confirms responses were recorded and auto-redirects to Prolific after 5 seconds, which triggers payment.
 
 ---
 

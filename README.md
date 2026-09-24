@@ -33,7 +33,7 @@ Both planners were run on the same story domains and starting situations, produc
 
 ## The four story domains
 
-Both studies draw their material from the same four short narrative domains. Each domain is a small world with a handful of characters, locations, items, and goals. A "plan" is a sequence of actions those characters take within that world. Participants only ever see the domain description and the plan text, never the underlying code or planner output.
+Both studies draw their material from the same four short narrative domains. Each domain is a small world with a handful of characters, locations, items, and goals. A **plan** is a sequence of actions those characters take within that world. Participants only ever see the domain description and the plan text, never the underlying code or planner output.
 
 ### Basketball
 
@@ -55,15 +55,15 @@ For every domain, 5 candidate plans were authored by Sabre and 5 by Halberd, all
 
 ---
 
-## What every participant experiences, in both studies
+## Participant experience, in both studies
 
-1. **Consent.** A short "Key Information" summary followed by a full IRB-approved consent form (participants can also download the original, IRB-stamped PDF). Participants click "I Agree & Continue" to proceed, or simply close the window to decline.
+1. **Consent.** A short **key information** summary followed by a full IRB-approved consent form (participants can also download the original, IRB-stamped PDF). Participants click "I Agree & Continue" to proceed, or simply close the window to decline.
 2. **Instructions / tutorial.** A short walkthrough of the task with one fully interactive worked example, plus a list of ground rules (no right/wrong answers, judge based on your own opinion, once you move to the next story you cannot go back).
 3. **The task itself**, repeated once for each of the 4 domains (domains are shown in a random order per participant):
    - Read the domain/scenario description.
    - Do the study-specific task (see the study README).
    - Answer one multiple-choice **comprehension question** about the scenario, used to check the participant actually read and understood it.
-4. **Completion.** A thank-you screen that automatically redirects back to Prolific after 5 seconds (with a manual "Return to Prolific now" button as well), which is what triggers payment.
+4. **Completion.** A thank-you screen that automatically redirects back to Prolific after 5 seconds, which is what triggers payment.
 
 The whole session takes 10-15 minutes and pays **$2.00** through Prolific.
 
